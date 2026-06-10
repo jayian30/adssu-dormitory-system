@@ -1,5 +1,3 @@
-USE adssu_dorm_db;
-
 INSERT INTO users (id, name, email, password_hash, role) VALUES 
 (5, 'Student 5', 'student5@adssu.edu.ph', '.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'student'),
 (6, 'Student 6', 'student6@adssu.edu.ph', '.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'student'),

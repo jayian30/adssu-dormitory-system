@@ -1,6 +1,3 @@
-CREATE DATABASE IF NOT EXISTS adssu_dorm_db;
-USE adssu_dorm_db;
-
 -- Users table (Handles Authentication for all roles)
 CREATE TABLE IF NOT EXISTS users (
     id INT AUTO_INCREMENT PRIMARY KEY,
